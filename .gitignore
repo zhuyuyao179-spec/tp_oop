@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+env/
+venv/
+tp_oop/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+>>>>>>> 3347f7f (Configuration initiale : .gitignore, environment.yml et README)
